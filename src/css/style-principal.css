@@ -1,0 +1,32 @@
+.divPrincipalHome{
+    width: 100%;
+    height: 90vh;
+    background-image: url("../img/fondo1.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+}
+.divPrincipalInstalaciones{
+    width: 100%;
+    height: 90vh;
+    background-image: url("../img/fondo2.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+}
+.divPrincipalCuartos{
+    width: 100%;
+    height: 90vh;
+    background-image: url("../img/fondo3.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+}
+.divPrincipalContacto{
+    width: 100%;
+    height: 90vh;
+    background-color: #14274A;
+}

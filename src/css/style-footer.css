@@ -1,0 +1,27 @@
+.footer{
+    background-color: #14274A;
+    color: #FFFFFF;
+    display: flex;
+    flex-direction: row;
+    align-content: space-between;
+    align-items: center;
+    height: 35vh;
+
+}
+
+.footer-info{
+    margin: auto;
+    width: 50vh;
+    font-size: 14px;
+
+}
+.footer-links{
+
+    width: 50vh;
+
+}
+.footer-links a{
+    height: 50px;
+    color: rgb(255, 255, 255);
+
+}

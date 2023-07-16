@@ -1,0 +1,48 @@
+
+.headerCSS{
+    height: 30%;
+    width: 100%;
+    display: flex;
+}
+
+.headerLogo{
+    background-color: #E0B973;
+    color: #14274A;
+    display: flex;
+    text-align: center;
+    font-family:'Bacasime Antique', serif;
+    font-weight: bold;
+    width: 200px;
+    height: 120px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    margin-left: 10%;
+}
+
+.headerNav{
+    
+    width: 80%;
+    margin-left: 20%;
+    align-items: center;
+    display: flex;
+    flex-direction: rows;
+    
+    
+}
+
+.headerUl{
+    display: flex;
+    flex-direction: rows;
+    font-size: 30px;
+    height: 120px;
+}
+
+.headerLi{
+    font-size: 20px;
+    font: bold;
+    padding: 10%;
+    color: #FFFFFF;
+
+
+}
+

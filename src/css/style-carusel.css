@@ -1,0 +1,32 @@
+.testimonial-carousel{
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    align-items: center;
+    width: 100%;
+    height: 200px;
+}
+
+.testimonial{
+    width: 40%;
+    text-align: center;
+    color: #14274A;
+
+}
+.testimonial-text{
+    font-size: 25px;
+}
+
+
+.testimonial-author{
+    font-size: 15px;
+    color: #14274A;
+
+}
+
+.button-carousel{
+    align-items: center;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 10px;
+}

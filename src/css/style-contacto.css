@@ -1,0 +1,12 @@
+.style-div-contacto-form{
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    align-items: center;
+}
+
+
+.style-div-contacto-form input{
+    width: 200px;
+    border-radius: 100px;
+}

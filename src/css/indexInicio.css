@@ -1,0 +1,25 @@
+.divSecundario{
+    color: #FFFFFF; 
+    margin-left: 10%;
+}
+
+.secH1{
+    font-size: 60px;
+    font-family:'Bacasime Antique', serif;
+}
+.secH2{
+    font-size: 40px;
+    font-family: 'Ysabeau SC', sans-serif;
+
+}
+
+.secp{
+    text-align: left;
+    width: 40vh;
+}
+
+.terp{
+    text-align: center;
+    font-size: 30px;
+    color: #14274A;
+}

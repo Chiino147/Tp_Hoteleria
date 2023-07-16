@@ -1,0 +1,32 @@
+.style-instalacion{
+    background-color: yellow;
+    /*background-image: url(../img/instalacionGym.jpg);*/
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+    width: 50%;
+    height: 500px;
+    margin-right: auto;
+    margin-left: auto;
+    display: flex;
+    flex-direction: column;
+    margin-top: 5vh ;
+}
+.style-instalacion-img img{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+}
+
+.style-instalacion h3{
+  text-align: center;
+  width: 100%;
+  position: absolute;
+  bottom: 0;
+  margin: 0;
+  padding: 10px;
+  background-color: rgba(255, 255, 255, 0.933); /* Puedes ajustar la opacidad y el color según tus necesidades */
+  color: #14274A;
+  font-size: 18px;
+}
+
