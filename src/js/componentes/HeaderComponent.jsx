@@ -10,8 +10,7 @@ function HeaderNav(){
             <Link class="headerLi" to="/Instalaciones">Instalaciones</Link>
             <Link class="headerLi" to="/Cuartos">Cuartos</Link>
             <Link class="headerLi" to="/Contacto">Contactanos</Link>
-        </ul>
-        <Outlet/>
+        </ul>   
     </div>)
 }
 
