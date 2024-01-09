@@ -1,5 +1,5 @@
-import "../../css/style-contacto.css"
-import DivPresentacion from "../DivPresentacion"
+import "./style-contacto.css"
+import DivPresentacion from "../../Presentacion/pages/DivPresentacion"
 import Button from 'react-bootstrap/Button';
 function enviar(){
     alert("Mensaje Enviado")

@@ -1,5 +1,5 @@
-import FooterComponent from "./componentes/FooterComponent";
-import Testimonios from "./componentes/testimonioComponent"
+import FooterComponent from "../Componets/FooterComponent";
+import Testimonios from "../Componets/testimonioComponent"
 
 //Este componente Unifica los testimonios y el footer en un solo componente
 function FooterReact(){

@@ -1,8 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import App from './App';
-import DivPrincipal from './js/componentes/DivPrincipal';
-import Header from './js/Header';
+import DivPrincipal from '../src/Common/Principal/pages/DivPrincipal';
+import Header from '../src/Common/header/Header';
 import { BrowserRouter} from 'react-router-dom';
 
 

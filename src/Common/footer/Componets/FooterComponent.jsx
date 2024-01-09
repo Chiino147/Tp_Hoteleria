@@ -1,6 +1,6 @@
 import { AiFillLinkedin } from "react-icons/ai"; //Linkelind Icon
 import { AiOutlineGithub } from "react-icons/ai"; //Github Icon
-import "../../css/style-footer.css"
+import "../pages/style-footer.css"
 
 //Componente que SOLO contiene el footer
 

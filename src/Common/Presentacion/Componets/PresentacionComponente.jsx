@@ -1,4 +1,4 @@
-import "../../css/style-presentacion.css"
+import "../pages/style-presentacion.css"
 
 
 function PresentacionComponente({titulo,descripcion}){

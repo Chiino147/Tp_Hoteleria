@@ -1,9 +1,9 @@
-import Home from "../pages/Home";
+import Home from "../../Home/Home";
 import { Route,Routes } from 'react-router-dom';
-import Cuartos from "../pages/Cuartos";
-import Instalaciones from "../pages/Instalaciones";
-import Contacto from "../pages/Contacto";
-import FormReserva from "./FormReserva";
+import Cuartos from "../../Cuartos/pages/Cuartos";
+import Instalaciones from "../../Instalaciones/pages/Instalaciones"
+import Contacto from "../../Contacto/pages/Contacto";
+import FormReserva from "../../../Reserva/FormReserva";
 
 //Routes Almacena todas las rutas y las cambia por Route (Primero hay que envolver la app)
 

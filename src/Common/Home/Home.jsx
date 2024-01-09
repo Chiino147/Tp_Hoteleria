@@ -1,6 +1,6 @@
-import DivPresentacion from "../DivPresentacion";
-import FooterReact from "../FooterReact";
-import Tarjeta from "../componentes/tarjetaComponent";
+import DivPresentacion from "../Presentacion/pages/DivPresentacion";
+import FooterReact from "../footer/pages/FooterReact";
+import Tarjeta from "../Componentes/tarjetaComponent";
 
 function Home(){
 return(

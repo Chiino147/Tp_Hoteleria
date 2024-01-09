@@ -1,7 +1,7 @@
-import DivPresentacion from "../DivPresentacion"
-import FooterReact from "../FooterReact"
-import PresentacionComponente from "../componentes/PresentacionComponente"
-import CardCuarto from "../componentes/CardCuarto";
+import DivPresentacion from "../../Presentacion/pages/DivPresentacion"
+import FooterReact from "../../footer/Componets/FooterComponent"
+import PresentacionComponente from "../../Presentacion/Componets/PresentacionComponente"
+import CardCuarto from "../components/CardCuarto";
 
 //Componente para imprimir toda la pagina de los cuartos
 

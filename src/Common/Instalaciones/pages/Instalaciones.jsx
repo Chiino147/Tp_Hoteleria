@@ -1,12 +1,12 @@
-import InstalacionesComponent from "../componentes/InstalacionesComponent";
-import PresentacionComponente from "../componentes/PresentacionComponente";
-import DivPresentacion from "../DivPresentacion";
-import FooterReact from "../FooterReact";
+import InstalacionesComponent from "../Components/InstalacionesComponent";
+import PresentacionComponente from "../../Presentacion/Componets/PresentacionComponente";
+import DivPresentacion from "../../Presentacion/pages/DivPresentacion";
+import FooterReact from "../../footer/pages/FooterReact";
 
 function Instalaciones(){
     return(
         <div>
-            
+
             <DivPresentacion
             fondo="instalaciones"
             />

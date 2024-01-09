@@ -1,11 +1,10 @@
-import "../../css/style-instalaciones.css"
-
+import "../pages/style-instalaciones.css"
 function InstalacionesComponent({foto,texto}) {
 
   return (
     <div class="style-instalacion">
       <div class="style-instalacion-img">
-      <img src={require(`../../img/${foto}.jpg`)} alt="" />
+      <img src={require(`../../../img/${foto}.jpg`)} alt="" />
       </div>
       <h3>{texto}</h3>
       

@@ -1,4 +1,4 @@
-import Tarjeta from "./js/componentes/tarjetaComponent";
+import Tarjeta from "./Common/Componentes/tarjetaComponent";
 import "./css/style-carusel.css"
 function App() {
   return (
